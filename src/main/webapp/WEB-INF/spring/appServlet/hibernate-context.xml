@@ -94,6 +94,8 @@
             <mvc:mapping path="/home"/>
 	    <mvc:mapping path="/calendar"/>
 	    <mvc:mapping path="/analyze"/>
+	    <mvc:mapping path="/map"/>
+	    <mvc:mapping path="/admin"/>
             <bean class="au.usyd.elec5619.service.LoginInterceptor"/>
         </mvc:interceptor>
     </mvc:interceptors>
