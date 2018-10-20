@@ -106,11 +106,11 @@
       </fieldset>
 
       <div class="clearfix">
-        <label class="custom-control custom-checkbox pull-xs-left">
+        <a href="adminlogin" class="custom-control custom-checkbox pull-xs-left">
           <input type="checkbox" class="custom-control-input">
           <span class="custom-control-indicator"></span>
           Admin login
-        </label>
+        </a>
         <a href="#" class="font-size-12 text-muted pull-xs-right" id="page-signin-forgot-link">Forgot your password?</a>
       </div>
 
